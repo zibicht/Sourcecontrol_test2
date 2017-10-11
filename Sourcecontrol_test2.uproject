@@ -6,11 +6,11 @@
 	"Plugins": [
 		{
 			"Name": "DatasmithCADImporter",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "DatasmithImporter",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
